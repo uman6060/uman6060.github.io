@@ -1,0 +1,15 @@
+.jumbotron img{
+width: 50px;
+height:400px;
+}
+
+ 
+img{
+	float: left;
+	width: 200px;
+	padding-right: 10px;
+}
+
+.kontent{
+
+}
